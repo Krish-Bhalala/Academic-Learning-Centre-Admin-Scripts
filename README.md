@@ -1,4 +1,4 @@
-# Acadmeic-Learning-Centre-Admin-Scripts
+# Academic-Learning-Centre-Admin-Scripts
 ## Welcome to the Automated Timesheet Generator! 🎉 
 Picture this: every week, you sit down to look at tutoring schedules and fill out timesheets. It feels like a boring chore that never ends. You open the schedule, write down the hours, and hope you don’t miss anything. 
 I thought, “This is too much work!” So, I created this fun Python script to help. It fetches your tutoring appointment data from a scheduling system and fills out your Excel timesheet for you. 
