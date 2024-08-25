@@ -102,7 +102,7 @@ def updateDate():
     today = datetime.now()
 
     # Calculate the number of days to subtract to get to the previous Saturday
-    days_to_subtract = (today.weekday() + 2) % 7 + 1
+    days_to_subtract = (today.weekday() + 2) % 7
     previous_saturday = today - timedelta(days=days_to_subtract)
     following_friday = previous_saturday + timedelta(days=6)
 
