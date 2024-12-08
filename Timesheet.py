@@ -8,6 +8,7 @@ import gzip
 import io
 from bs4 import BeautifulSoup
 from email_generator import emailDataGenerator  # Importing the function from email_generator.py
+from email_sender import sendEmail
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
